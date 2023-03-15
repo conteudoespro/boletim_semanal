@@ -21,3 +21,7 @@
 .rounded {
     padding: 50px 40px !important;
  }
+
+ .article h1, .article h2 {
+    font-size: 1.2em !important;
+ }
